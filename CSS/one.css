@@ -1,3 +1,7 @@
-* {
-	background-color: red;
+#result {
+	width: 250px;
+	height: 50px;
+	background-color: black;
+	color: white;
+	font-size: 40px;
 }

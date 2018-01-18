@@ -1,3 +1,10 @@
 * {
-	background-color: red;
+	margin: o auto;
+}
+
+.h1 {
+	/*width: 400px;
+	height: 100px;
+	background-color: green;*/
+	font-size:40px;
 }
